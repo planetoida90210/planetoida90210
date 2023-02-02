@@ -14,7 +14,7 @@ I am a <i>Front-End Developer</i> with passion for expanding my skillset to beco
 </p>
 
 - 💻   Interested in front-end development, back-end development & full-stack development. 
-- 📫   How to reach me: [Email](mailto:michalbryk1991@gmail.com "michalbryk1991@gmail.com") || [LinkedIn]("https://www.linkedin.com/in/micha%C5%82-bryk-ba4111247/")
+- 📫   How to reach me: [Email](mailto:michalbryk1991@gmail.com "michalbryk1991@gmail.com") || [LinkedIn](https://www.linkedin.com/in/micha%C5%82-bryk-ba4111247/")
 - 🇵🇱   Located in Warsaw, Poland. 
 - 😄   Open to full-time or part-time positions 
 - ⌨️    I'm excited to see what the future holds for my development journey and am open to new opportunities to further my skills and experience.
