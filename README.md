@@ -43,6 +43,7 @@ I am a <i>Front-End Developer</i> with passion for expanding my skillset to beco
 ![ExpressJS](https://img.shields.io/badge/-Express-black?style=round-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=round-square&logo=mongodb&logoColor=green)
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=round-square&logo=prisma&logoColor=teal)
+![Trpc](https://img.shields.io/badge/-trpc-black?style=round-square&logo=trpc)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=round-square&logo=visualstudiocode&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-black?style=round-square&logo=git)
 ![Mac OS](https://img.shields.io/badge/-Mac%20OS-black?style=round-square&logo=apple&logoColor=blue)
