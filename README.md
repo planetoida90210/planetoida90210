@@ -38,7 +38,7 @@ I am a <i>Front-End Developer</i> with passion for expanding my skillset to beco
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=round-square&logo=css3)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=round-square&logo=next.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactJs-000000?logoColor=#61DAFB)
+![ReactNative](https://img.shields.io/badge/-ReactJs-000000?logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=round-square&logo=redux)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=round-square&logo=tailwindcss&logoColor=blue)
 ![Node.JS](https://img.shields.io/badge/-Node.js-black?style=round-square&logo=node.js&logoColor=green)
