@@ -28,7 +28,7 @@ I am a <i>Front-End Developer</i> with passion for expanding my skillset to beco
 ![Santis's github stats](https://github-readme-stats.vercel.app/api/?username=planetoida90210&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
 
 <br>
-
+<br>
 ---
 
 ### 🛠️ Familiar Technologies
